@@ -1,0 +1,27 @@
+{
+    "name": "Tunesome",
+    "short_name": "Tunesome",
+    "icons": [
+        {
+            "src": "images/tunesome_144.png",
+            "type": "image/png",
+            "sizes": "144x144"
+        },
+        {
+            "src": "images/tunesome_256.png",
+            "type": "image/png",
+            "sizes": "256x256"
+        },
+        {
+            "src": "images/tunesome_512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ],
+    "start_url": "./?homescreen=1",
+    "scope": "./",
+    "display": "fullscreen",
+    "orientation": "portrait",
+    "background_color": "#000000",
+    "theme_color": "#000000"
+}
